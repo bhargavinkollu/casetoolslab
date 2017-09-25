@@ -1,1 +1,2 @@
 # casetoolslab
+local workspace
